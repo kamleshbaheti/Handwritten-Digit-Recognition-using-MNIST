@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition using MNIST
+# Handwritten Digit Recognition and Vocalization using MNIST
 
 
 ## Overview
